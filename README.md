@@ -1,1 +1,1 @@
-# sm-historical-query-example
+# aws-historical-query-example
